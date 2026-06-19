@@ -5,12 +5,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Zeenal Thakkar 👋
+
+## About Me
+Incoming MS Health Informatics student at Northeastern University.
+
+Interested in:
+- Healthcare Analytics
+- Health Informatics
+- Business Analysis
+- Data Analytics
+
+## Currently Learning
+- Business Analysis
+- Python
+- SQL
+- Git & GitHub
+
+## Goals
+- Build healthcare analytics projects
+- Contribute to research
+- Secure internship and co-op opportunities
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/dr-zeenal-thakkar-aa553a254/ 
