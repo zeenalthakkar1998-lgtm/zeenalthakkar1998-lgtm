@@ -1,55 +1,46 @@
-# Hi, I'm Zeenal Thakkar 👋
+# Zeenal Thakkar
+**BHMS Graduate → Health Informatics & Healthcare Data Analytics**
 
-Healthcare professional transitioning into **Health Informatics and Healthcare Data Analytics**, with a growing focus on using data and technology to understand and improve healthcare processes.
+I spent 1.5 years in clinical practice — documenting patient care, working inside EMR/EHR systems (Synthesis, RADAR OPUS), and coordinating treatment across hospital and outpatient settings. That work is what pulled me toward data: every patient record is a dataset, and every clinical workflow is a process that can be measured and improved. I'm now building SQL and Python skills to work on the data side of healthcare, starting with a relational database project and an admitted seat in Northeastern University's MS in Health Informatics.
 
-## 👩‍💻 About Me
+---
 
-My background in healthcare has led me to explore how clinical knowledge can be combined with data analytics and technology.
+### 🩺 Healthcare Background
+- BHMS graduate, University Gold Medallist
+- 1.5 years of clinical experience: patient documentation, treatment coordination, IPD/OPD workflows
+- Hands-on exposure to EMR/EHR systems (Synthesis, RADAR OPUS)
+- CITI Program certified in Good Clinical Practice (GCP)
 
-I am currently building practical skills through hands-on healthcare data projects, with a focus on SQL, Python, databases, and data analysis.
+### 🛠️ Technical Skills
+- **SQL:** querying, filtering, aggregation, joins, subqueries, CASE statements, CTEs
+- **Python (developing):** functions, loops, conditional logic, database connectivity, basic data analysis
+- **Databases:** SQLite, DB Browser for SQLite
+- **Tools:** Git, GitHub, VS Code
 
-## 🛠️ Technical Skills
+### 📜 Certifications
+- Good Clinical Practice (GCP) — CITI Program, via Northeastern University (2026)
+- Responsible AI Certificate — Northeastern University
+- Foundations of Business Analysis
+- Python for Everybody Specialization — University of Michigan *(in progress)*
 
-- **SQL:** Data querying, filtering, aggregation, joins, subqueries, CASE statements, and CTEs
-- **Python:** Functions, loops, conditional logic, database connectivity, and basic data analysis
-- **Databases:** SQLite
-- **Tools:** Git, GitHub, Visual Studio Code, DB Browser for SQLite
+### 📊 Featured Project — [Hospital Patient Analytics](https://github.com/zeenalthakkar1998-lgtm/Hospital-Patient-Analytics)
+A healthcare data analytics project using SQL, SQLite, and Python to explore patient data and practice database-driven analysis.
 
-## 🏥 Featured Project
-
-### Hospital Patient Analytics
-
-A healthcare data analytics project using **SQL, SQLite, and Python** to explore patient data and practice database-driven healthcare analysis.
-
-Key areas covered:
-
+**Covers:**
 - SQL fundamentals and aggregate analysis
 - INNER, LEFT, and SELF JOINs
 - Subqueries, CASE statements, and CTEs
-- Python + SQLite integration
-- Parameterized SQL queries
+- Python + SQLite integration with parameterized queries
 - Patient age-range and summary analysis
 - Git/GitHub version control and project documentation
 
-➡️ View the [Hospital Patient Analytics](https://github.com/zeenalthakkar1998-lgtm/Hospital-Patient-Analytics) project.
-## 📚 Currently Developing
-
-I am continuing to build my skills in:
-
-- Python for healthcare data analysis
-- Jupyter Notebook
-- Pandas
+### 📚 Currently Learning
+- Python for healthcare data analysis (Pandas, Jupyter Notebook)
 - Data cleaning and exploratory data analysis
 - Data visualization
 
-## 🎯 Professional Interests
+### 🎯 Interests
+Health Informatics · Healthcare Data Analytics · Clinical Data · Healthcare AI · Data-driven healthcare improvement
 
-- Health Informatics
-- Healthcare Data Analytics
-- Clinical Data
-- Healthcare Research
-- Data-driven healthcare improvement
-
-## 🔗 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/dr-zeenal-thakkar-aa553a254/
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/dr-zeenal-thakkar-aa553a254/)
